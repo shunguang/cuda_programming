@@ -23,3 +23,11 @@ CUDA version: 11
 3. Sum Reduction
 4. Histogram
 5. Convolution
+
+## WUS Modifications (5/12/2023)
+1. Added vs2019 building
+2. fixed lots of bugs in original version for sum reduction
+3. Extended sum Reduction for any size of arrays (some methods in the original version are only for (2^n)
+
+
+
